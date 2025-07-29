@@ -1,0 +1,17 @@
+Verificacao: fila nao esta cheia
+Verificacao: fila esta vazia
+Inserido: 55
+Inserido: 85
+Inserido: 78
+Inserido: 60
+Inserido: 8
+Inserido: 7
+Inserido: 95
+Inserido: 70
+Inserido: 64
+Inserido: 22
+Verificacao: fila esta cheia
+Falha ao inserir 7: fila cheia
+Consultado inicio: 55
+Removido: 55
+Programa finalizado pelo usuario.
